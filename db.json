@@ -1,12 +1,4 @@
 {
-  "products":[
-    {
-      "name":"Ali",
-    },
-    {
-      "name":"Ahmed",
-    },
-  ],
   "posts": [
     {
       "id": 1,
